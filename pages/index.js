@@ -31,6 +31,6 @@ function BasicExample() {
     
   );
   }
-}
+
 
 export default BasicExample;
